@@ -6,6 +6,6 @@
 </STR>
 <Act_result>eror 500</Act_result>
 <Ex_result>section 'new' is open</Ex_result>
-<Severity>Critical</Severity>
-<Priority>ASAP</Priority>
+<Severity>Major</Severity>
+<Priority>High</Priority>
 <Ad_inf>OS=Win7 Browser=Opera ver.8.10</Ad_inf>
