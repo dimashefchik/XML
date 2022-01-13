@@ -1,5 +1,8 @@
-<name>Dima</name>
-<age>29</age>
-<pat>0</pat>
-<salary>350</salary>
+<?xml version="1.0" encoding="UTF-8"?>
+<aboutme>
+  <name>Dima</name>
+  <age>29</age>
+  <pat>0</pat>
+  <salary>350</salary>
+</aboutme>
 
