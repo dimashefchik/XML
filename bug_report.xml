@@ -1,11 +1,14 @@
-<id>id_01</id>
-<summary>can't open section 'new' on www.shop.com</summary>
-<STR>
-  <st_1>open www.shop.com</st_1>
-  <st_2>open section 'new'</st_2>
-</STR>
-<Act_result>eror 500</Act_result>
-<Ex_result>section 'new' is open</Ex_result>
+<?xml version="1.0" encoding="UTF-8"?>
+<bugreport>
+  <id>Terminal</id>
+  <summary>can't open section 'new' on www.shop.com</summary>
+  <str>
+      <step1>open www.shop.com</step1>
+      <step2>open section 'new'</step2>
+    </str>
+  <Act_result>eror 500</Act_result>
+  <Ex_result>section 'new' is open</Ex_result>
 <Severity>Major</Severity>
 <Priority>High</Priority>
 <Ad_inf>OS=Win7 Browser=Opera ver.8.10</Ad_inf>
+</bugreport>
