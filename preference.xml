@@ -1,5 +1,8 @@
-<fav_film>Stolen</fav_film>
-<fav_s>The blacklist</fav_s>
-<fav_y>winter</fav_y>
-<country>Sri-Lanka</country>
+<?xml version="1.0" encoding="UTF-8"?>
+<preference>
+  <fav_v>Stolen</fav_v>
+  <fav_s>The blacklist</fav_s>
+  <fav_y>winter</fav_y>
+  <country>Sri-Lanka</country>
+</preference>
 
